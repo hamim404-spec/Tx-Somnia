@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Somnia Testnet",
+    "rpcUrl": "https://dream-rpc.somnia.network",
+    "chainId": "50312",
+    "symbol": "STT",
+    "explorer": "https://somnia-testnet.socialscan.io"
+  }
+]
